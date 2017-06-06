@@ -1,2 +1,3 @@
-# Node.js
-Exercise with node.js
+# Secret Tweeter App
+
+This is a very basic version of Twitter
