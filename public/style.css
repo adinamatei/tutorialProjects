@@ -60,3 +60,14 @@ body {
 	background-color: #009900;
 	border: none;
 }
+
+.tweetTime {
+	color: gray;
+   	font-style: italic;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.tweetBody {
+	font-size: 20px;
+}
